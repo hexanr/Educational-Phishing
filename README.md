@@ -61,13 +61,17 @@ Full details are in `Documentation/SETUP.md`.
 
 ## Screenshots
 
-Add screenshots of each page here. Put the image files in a `screenshots/` folder in the repo, then add lines like:
+English interface:
 
-```
-![Consent page](screenshots/warning.png)
 ![Simulated login](screenshots/login.png)
+![Consent page](screenshots/warning.png)
 ![Debrief page](screenshots/debrief.png)
-```
+
+Arabic interface:
+
+![Simulated login (Arabic)](screenshots/login_ar.png)
+![Consent page (Arabic)](screenshots/warning_ar.png)
+![Debrief page (Arabic)](screenshots/debrief_ar.png)
 
 ## Ideas for future work
 
