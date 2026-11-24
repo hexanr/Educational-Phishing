@@ -103,7 +103,7 @@ CREATE TABLE IF NOT EXISTS `two_factor_auth` (
 
 INSERT INTO `users` (`username`, `password`) VALUES
 -- للأغراض التعليمية فقط
--- ('demo_user', '$2y$12$N9qo8uLOickgx2ZMRZoMyeIjZAgcg7b3XeKeUxWdeS86E36CHqDNa');
+('demo_user', '$2y$12$N9qo8uLOickgx2ZMRZoMyeIjZAgcg7b3XeKeUxWdeS86E36CHqDNa');
 
 -- =====================================================
 -- إنشاء حساب مسؤول جامعي (اختياري)
